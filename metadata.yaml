@@ -1,0 +1,30 @@
+_repo: '---_24229'
+_version: 0.1.0
+alternative_title: Chiu Tʻang shu
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Liu, Xu
+    alias: 劉昫
+    birthdate: 887
+    deathdate: 946
+    gutenberg_agent_id: '26332'
+    url: http://www.gutenberg.org/2009/agents/26332
+    wikipedia: http://zh.wikipedia.org/wiki/%E5%88%98%E6%98%AB
+description: ''
+gutenberg_issued: '2008-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24229'
+  lccn: '76836642'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'China -- History -- Tang dynasty, 618-907'
+- !lcc 'DS'
+title: 舊唐書
+url: http://www.gutenberg.org/ebooks/24229
